@@ -1,5 +1,5 @@
 export const BASE_URL = "https://dbms-pjt.onrender.com/api/v1.0";
-const CLOUDINARY_CLOUD_NAME = process.env.REACT_APP_CLOUDINARY_CLOUD_NAME;
+const CLOUDINARY_CLOUD_NAME = "dmjyuceq9";
 
 
 export const API_ENDPOINTS = {
